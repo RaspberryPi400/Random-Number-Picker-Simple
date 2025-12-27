@@ -1,1 +1,1 @@
-Just run this code in a online Python complier or IDE! You input two numbers and the code picks and returns a number between those two numbers.
+Just run this code in a online Python complier or IDE! You input two numbers and the code picks and returns a number between those two numbers. This code is licensed under the MIT licnese. For more information on this license, go to the LICENSE file.
